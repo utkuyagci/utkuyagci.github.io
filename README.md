@@ -4,5 +4,5 @@
 Industrial Engineering, B.S.
 
 ### Projects
-Toxicity Classifier
+##Toxicity Classifier
 - big impact

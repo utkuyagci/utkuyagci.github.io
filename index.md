@@ -2,3 +2,7 @@ Hi, I'm Utku. Welcome to my project portfolio. I recently graduated from [METU](
 
 Major projects I have accomplished can be found here.
 
+## Projects
+
+
+

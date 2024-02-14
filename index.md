@@ -14,5 +14,5 @@ This project focuses on time series forecasting of electricity generation using 
 
 The incorporation of the KDE estimator aimed to mitigate the inherent randomness resulting from neural network initializations, thereby reducing prediction variability and enhancing forecast reliability. Extensive analysis was carried out in the project, comparing results from 30 to 100 initializations of the models, and also contrasting these outcomes with those obtained from traditional ensemble methods such as mean and median ensembles.
 
-The project offers insights into the effectiveness of neural network models in time series forecasting tasks and demonstrates the value of employing advanced techniques like the KDE estimator for enhancing prediction accuracy and stability. Furthermore, by evaluating and comparing various initialization schemes and ensemble methods, this project contributes to a deeper understanding of the factors influencing the performance of neural network-based forecasting models in real-world applications.
+
 
